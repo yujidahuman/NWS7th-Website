@@ -1,0 +1,52 @@
+#body1{
+    background-color:aqua;
+}
+
+#body2{
+    background-color:red;
+}
+
+
+#main{
+    text-align:center;
+    color:red;
+    border-style:dashed;
+    border-color:green;
+    border-width:7px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+}
+
+
+#direct{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    margin-top:15px;
+    font-size:x-large;
+}
+
+
+#contact{
+    border-width:5px;
+    border-style:outset;
+    border-color:black;
+    font-size:x-large;
+}
+
+
+#info{
+    color:green;
+    margin-bottom:15px;
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+}
+
+#nerd{
+    font-size:large;
+}
+
+
+#villager{
+    margin-right:10px;
+}
